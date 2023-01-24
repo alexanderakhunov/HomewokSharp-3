@@ -4,7 +4,7 @@ if (num > 0)
 {
     for (int i = 1; i <= num; i++)
     {
-        System.Console.WriteLine(Math.Pow(i, 2));
+        System.Console.WriteLine(Math.Pow(i, 3));
     }
 }
 else
